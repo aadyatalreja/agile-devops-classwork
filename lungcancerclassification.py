@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1ddER_Q_wIiL-S_mMOZk-z_QDTfKJ0QMT
 """
 # pip install dependencies
-!pip install numpy
-!pip install pandas
-!pip install sklearn
-!pip install matplotlib
-!pip install seaborn
+pip install numpy
+pip install pandas
+pip install sklearn
+pip install matplotlib
+pip install seaborn
 
 # GaussianNB
 import numpy as np
