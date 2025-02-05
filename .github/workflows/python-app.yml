@@ -29,7 +29,7 @@ jobs:
         pip install flake8 pytest
         pip install numpy
         pip install pandas
-        pip install sklearn
+        pip install scikit-learn
         pip install matplotlib
         pip install seaborn
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
